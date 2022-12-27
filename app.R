@@ -14,7 +14,6 @@ ui <- fluidPage(
   # application title
   titlePanel("NBA 2018/19 Player Stats"),
 
-
   sidebarLayout(
 
     # sidebar
