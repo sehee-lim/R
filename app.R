@@ -6,7 +6,7 @@ library(colourpicker)
 
 
 # load data
-players <- read.csv("data/nba2018.csv")
+players <- read.csv("nba2018.csv")
 
 
 ui <- fluidPage(
